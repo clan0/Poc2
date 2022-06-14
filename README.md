@@ -1,1 +1,1 @@
-# Poc2
+# Proxy bridgeToken.sol
